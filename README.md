@@ -17,8 +17,7 @@ The model classifies ECG signals into 5 classes (Normal, Supraventricular, Ventr
 | Database | SQLite |
 | PDF Reports | ReportLab |
 | Auth | bcrypt |
-| Frontend | Jinja2, Tailwind CSS, Bootstrap Icons |
-| Email | SMTP (via `email_helper.py`) |
+| Frontend | Tailwind CSS, Bootstrap Icons |
 
 ---
 
