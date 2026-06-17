@@ -6,7 +6,7 @@ The model classifies ECG signals into 5 classes (Normal, Supraventricular, Ventr
 
 ---
 
-## 🏗️ Tech Stack
+##  Tech Stack
 
 | Layer | Technology |
 |---|---|
@@ -22,7 +22,7 @@ The model classifies ECG signals into 5 classes (Normal, Supraventricular, Ventr
 
 ---
 
-## 🚀 Usage
+##  Usage
 
 1. Sign up as a **Patient** or **Doctor** (or log in as **Admin** with default credentials).
 2. As a patient, go to **ECG Detection** and upload a CSV file with 187 numeric ECG features (a sample file is downloadable from the app).
@@ -34,7 +34,7 @@ The model classifies ECG signals into 5 classes (Normal, Supraventricular, Ventr
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 - Extend training to additional ECG datasets (e.g., PTB-XL) for better real-world generalization
 - Build a lightweight version of the model for real-time inference on wearable devices
